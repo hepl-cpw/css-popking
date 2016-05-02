@@ -17,13 +17,12 @@
 
 ## Pop King
 
-_TODO_
-
 Le rendu final désiré est le suivant : ![rendu final](./rendu.png)
 
 ### Consignes
 
-_TODO_
+* Sur base du rendu fourni et du fichier `index.html`, compléter le fichier `css/styles.css`
+* Le but de l'exercice est d'utiliser le **positionement relatif**.
 
 * * *
 
