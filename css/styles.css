@@ -48,3 +48,47 @@ blockquote, q {
 }
 
 /******************************************************/
+
+body{
+  font: 16px/1.5 Helvetica, Arial, sans-serif; /*12px*/
+  width: 36em; /* 35em */
+  margin: 8em auto 0;
+  border: 0.8em solid rgba(157,118,85,.60);
+  -webkit-border-radius: 1em;
+  -moz-border-radius: 1em;
+  border-radius: 1em;
+}
+h1{
+  font-size: 2em;
+  font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; /* http://cssfontstack.com/ */
+  background: #262626;
+  color: #F6F5F3;
+  font-variant:small-caps;
+  position: relative;
+  left: 3.5em; /* 3.5*20=70px */
+  top: -1em ;
+  display: inline-block;
+  padding: 0 1em; /* 0 0.5em; */
+}
+img{
+  display: block;
+  width: 13em;
+  height: 20em;
+  border: 0.2em solid rgba(157,118,85,.50);
+  padding:0.2em;
+  position: relative;
+  left: -6.5em;
+  top: -10em;
+  background-color: white;
+}
+p{
+  color: #262626;
+  margin-top: -21em;
+  margin-left: 7em; /* 70px=7em */
+  padding-left: 2em;
+  margin-right: 2em;
+}
+p.more{
+  margin: 0.5em 2em 1em;
+  text-align: right;
+}
